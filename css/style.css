@@ -1189,3 +1189,9 @@
 				{
 					color: #fff;
 				}
+/* BITART PORTION CODE FOR VIDEO RESPONSIVE WIDTH AND HEIGHT */
+
+video {
+
+	width:100%;
+}
